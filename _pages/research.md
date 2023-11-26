@@ -22,6 +22,7 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       University of Southern California Macro-Finance Conference,
       Rutgers Business School,      
+      <a href="https://editorialexpress.com/conference/AFA2023/program/AFA2023.html">AFA 2023 Annual Meeting</a>, 
       <a href="http://sfs.org/financecavalcades/sfs-cavalcade-north-america-2022/">SFS Cavalcade North America 2022</a>, 
       <a href="https://www.janeway.econ.cam.ac.uk/event/fourteenth-annual-sofie-conference">14<sup>th</sup> Annual SoFiE Post-Conference</a>,
       Transatlantic Doctoral Conference 2022, 
