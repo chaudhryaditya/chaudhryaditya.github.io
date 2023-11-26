@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aditya Chaudhry"
 title_separator          : "-"
 logo                     : ""
-name                     : &name "Aditya Chaudhry
+name                     : &name "Aditya Chaudhry"
 description              : &description "Assistant Professor of Finance"
 url                      : https://adityachaudhry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
