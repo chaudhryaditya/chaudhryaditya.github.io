@@ -5,14 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications
-1. [Time Variation in the News-Returns Relationship](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420981) (with Paul Glasserman and Harry Mamaysky)  
-   *Journal of Financial and Quantitative Analysis*, forthcoming  
-   \[[Internet Appendix](../files/Glasserman_Li_Mamaysky_internet_appendix.pdf)\]
-   <details><summary>Abstract</summary>
-   The speed of stock price reaction to news exhibits substantial time variation. Higher risk-bearing capacity of financial intermediaries, lower passive ownership of stocks, and more informative news increase price responses to contemporaneous news; surprisingly, these interaction variables also increase price responses to lagged news (underreaction). A simple model with limited attention and three investor types – institutional, non-institutional, passive – predicts the observed variation in news responses. A long-short trading strategy based on news sentiment earns high returns, which increase when conditioning on the interaction variables. The interactions we document are robust to the choice of news source.
-   </details>
-
 ## Working Papers
 1. [Retail Trading and Asset Prices: The Role of Changing Social Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236966)    
    This version: November 2022       
@@ -28,3 +20,8 @@ author_profile: true
    This paper characterizes the transition dynamics of a continuous-time neoclassical production economy with capital accumulation in which households face idiosyncratic income risk. Insurance companies operating in perfectly competitive markets offer long-term insurance contracts and can commit to future contractual obligations, whereas households cannot. Therefore the equilibrium features imperfect insurance and a non-degenerate cross-sectional consumption distribution. When household labor productivity takes two values, one of which is zero, and the utility function is logarithmic, we show that the transition dynamics induced by unexpected positive or negative technology shocks, including the evolution of the consumption distribution, can be calculated in closed form, as long as the initial deviation from the steady state is not too large. This is in contrast to both the standard representative agent neoclassical growth model as well as Bewley (1986) style models with uninsurable idiosyncratic income risk.  Thus the paper provides an analytically tractable alternative to the standard incomplete markets general equilibrium model developed in Aiyagari (1994) by retaining its physical structure, but substituting the assumed incomplete asset markets structure with one in which limits to consumption insurance emerge endogenously, as in the macroeconomic literature on limited commitment.
    </details>
 
+
+
+## Publications
+1. [Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference](http://proceedings.mlr.press/v70/chaudhry17a) (with Pan Xu and Quanquan Gu)  
+   *Proc. of the 34th International Conference on Machine Learning (ICML) Sydney, Australia, 2017*  
