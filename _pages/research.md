@@ -7,11 +7,10 @@ author_profile: true
 
 ## Working Papers
 1. [The Impact of Prices on Analyst Cash Flow Expectations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443349)    
-
-   <p style="font-size: 14px;margin-bottom: 0;margin-top: 0;"> <b>This version:</b> November 2023 </p>
-   <p style="font-size: 14px;margin-bottom: 0;margin-top: 0;"> <b>Presentations:</b> MFA (2024)</p>
-   <p style="font-size: 14px;margin-bottom: 0;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
-   <p style="font-size: 14px;margin-bottom: 0;margin-top: 0;"> <b>Abstract:</b> I demonstrate that prices impact equity research analyst cash flow expectations. Using several instruments based on mutual fund flow-induced trading, I find analysts update their long- and short-term cash flow expectations in response to price changes caused by noise trading unrelated to cash flow news. These results have important implications for interpretations of analyst expectations. These results are inconsistent with models featuring homogeneous investor and analyst cash flow expectations that do not depend on prices. However, they are consistent with models in which cash flow expectations endogenously depend on prices, such as models with dispersed information or price extrapolation.</p>
+   <p style="font-size: 16px;margin-bottom: 1;margin-top: 0;"> <b>This version:</b> November 2023 </p>
+   <p style="font-size: 16px;margin-bottom: 1;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
+   <p style="font-size: 16px;margin-bottom: 1;margin-top: 0;"> <b>Presentations:</b> MFA (2024)</p>
+   <p style="font-size: 16px;margin-bottom: 1;margin-top: 0;"> <b>Abstract:</b> I demonstrate that prices impact equity research analyst cash flow expectations. Using several instruments based on mutual fund flow-induced trading, I find analysts update their long- and short-term cash flow expectations in response to price changes caused by noise trading unrelated to cash flow news. These results have important implications for interpretations of analyst expectations. These results are inconsistent with models featuring homogeneous investor and analyst cash flow expectations that do not depend on prices. However, they are consistent with models in which cash flow expectations endogenously depend on prices, such as models with dispersed information or price extrapolation.</p>
 
 <!---    
    <span style="font-size: 12px;">
