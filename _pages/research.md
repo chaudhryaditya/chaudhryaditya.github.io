@@ -12,13 +12,6 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> MFA (2024)</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> I demonstrate that prices impact equity research analyst cash flow expectations. Using several instruments based on mutual fund flow-induced trading, I find analysts update their long- and short-term cash flow expectations in response to price changes caused by noise trading unrelated to cash flow news. These results have important implications for interpretations of analyst expectations. These results are inconsistent with models featuring homogeneous investor and analyst cash flow expectations that do not depend on prices. However, they are consistent with models in which cash flow expectations endogenously depend on prices, such as models with dispersed information or price extrapolation.</p>
 
-<!---    
-   <span style="font-size: 12px;">
-      <details><summary>Abstract</summary>
-      This paper characterizes the transition dynamics of a continuous-time neoclassical production economy with capital accumulation in which households face idiosyncratic income risk. Insurance companies operating in perfectly competitive markets offer long-term insurance contracts and can commit to future contractual obligations, whereas households cannot. Therefore the equilibrium features imperfect insurance and a non-degenerate cross-sectional consumption distribution. When household labor productivity takes two values, one of which is zero, and the utility function is logarithmic, we show that the transition dynamics induced by unexpected positive or negative technology shocks, including the evolution of the consumption distribution, can be calculated in closed form, as long as the initial deviation from the steady state is not too large. This is in contrast to both the standard representative agent neoclassical growth model as well as Bewley (1986) style models with uninsurable idiosyncratic income risk.  Thus the paper provides an analytically tractable alternative to the standard incomplete markets general equilibrium model developed in Aiyagari (1994) by retaining its physical structure, but substituting the assumed incomplete asset markets structure with one in which limits to consumption insurance emerge endogenously, as in the macroeconomic literature on limited commitment.
-      </details>
-   </span> --->
-
 
 2. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> October 2023 </p>
@@ -37,6 +30,7 @@ author_profile: true
  
 
 3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
+
    In Revision, Reject and Resubmit at *Review of Financial Studies*
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2022 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
