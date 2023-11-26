@@ -9,7 +9,10 @@ author_profile: true
 1. [The Impact of Prices on Analyst Cash Flow Expectations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443349)    
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> November 2023 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> MFA (2024)</p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      MFA (2024),
+      University of Wisconsin-Madison Junior Finance Conference      
+      </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> I demonstrate that prices impact equity research analyst cash flow expectations. Using several instruments based on mutual fund flow-induced trading, I find analysts update their long- and short-term cash flow expectations in response to price changes caused by noise trading unrelated to cash flow news. These results have important implications for interpretations of analyst expectations. These results are inconsistent with models featuring homogeneous investor and analyst cash flow expectations that do not depend on prices. However, they are consistent with models in which cash flow expectations endogenously depend on prices, such as models with dispersed information or price extrapolation.</p>
 
 
@@ -17,6 +20,8 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> October 2023 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      University of Southern California Macro-Finance Conference,
+      Rutgers Business School,      
       <a href="http://sfs.org/financecavalcades/sfs-cavalcade-north-america-2022/">SFS Cavalcade North America 2022</a>, 
       <a href="https://www.janeway.econ.cam.ac.uk/event/fourteenth-annual-sofie-conference">14<sup>th</sup> Annual SoFiE Post-Conference</a>,
       Transatlantic Doctoral Conference 2022, 
