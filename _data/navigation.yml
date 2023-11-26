@@ -9,5 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Discussions"
+    url: /discussions/
+
   - title: "CV"
     url: https://aditya-chaudhry1.github.io/files/Aditya_Chaudhry_CV.pdf
