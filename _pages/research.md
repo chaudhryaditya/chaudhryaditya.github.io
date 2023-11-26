@@ -25,15 +25,28 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       <a href="http://sfs.org/financecavalcades/sfs-cavalcade-north-america-2022/">SFS Cavalcade North America 2022</a>, 
-      <a href="https://www.janeway.econ.cam.ac.uk/event/fourteenth-annual-sofie-conference">14th Annual SoFiE Post-Conference</a>,
+      <a href="https://www.janeway.econ.cam.ac.uk/event/fourteenth-annual-sofie-conference">14<sup>th</sup> Annual SoFiE Post-Conference</a>,
       Transatlantic Doctoral Conference 2022, 
       Machine Learning in Economics Summer Institute 2022, 
-      Chicago Joint Program and Friends Conference 2022, Chicago Booth Finance Brownbag </p>
+      Chicago Joint Program and Friends Conference 2022, 
+      Chicago Booth Finance Brownbag </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
       SoFiE Prize for the Best Paper at the 2022 Early-Career Scholars Conference, 
-      Liew Fama-Miller PhD Fellowship for Best 3rd Year Paper</p>
+      Liew Fama-Miller PhD Fellowship for Best 3<sup>rd</sup> Year Paper</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I find that the causal effect of subjective growth expectations on asset prices is far smaller than standard models suggest. To quantify this causal effect, I construct an asset demand model in which Bayesian investors learn from analysts and other signals. Leveraging holdings, prices, and beliefs data, I find a 1% rise in annual investor growth expectations raises price by 60% to 90% less than in standard models. This small causal effect arises from the limited passthrough of beliefs to asset demand, and is consistent with small price elasticities of demand.</p>   
  
+
+3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
+   In Revision, Reject and Resubmit at *Review of Financial Studies*
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2022 </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      <a href="https://editorialexpress.com/conference/AFA2022/program/AFA2022.html">AFA 2022 Annual Meeting</a>, 
+      <a href="https://sofie2021.rady.ucsd.edu/">13<sup>th</sup> Annual SoFiE Pre-Conference</a>,
+      Chicago Joint Program and Friends Conference 2021, 
+      Chicago Booth Finance Brownbag </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
+      Liew Fama-Miller PhD Fellowship for Best 2<sup>nd</sup> Year Paper</p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I quantify the causal impact of macroeconomic uncertainty on expected returns. The exogenous timing of macroeconomic announcements provides an instrument for uncertainty. Using realized returns and daily measures of macroeconomic uncertainty, I find announcements resolve uncertainty, which causes expected returns to fall. Under weak assumptions, macroeconomic uncertainty explains at most 32% of expected return variation. Under the additional, empirically justified assumption that other expected return drivers do not correlate with announcement timing, macroeconomic uncertainty explains 10% of expected return variation and a one standard deviation increase in macroeconomic uncertainty raises long-run expected returns by 173 basis points. </p>   
 
 ## Publications
 1. [Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference](http://proceedings.mlr.press/v70/chaudhry17a) (with Pan Xu and Quanquan Gu)  
