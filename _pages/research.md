@@ -30,8 +30,7 @@ author_profile: true
  
 
 3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
-
-   In Revision, Reject and Resubmit at *Review of Financial Studies*
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> In Revision, Reject and Resubmit at <i>Review of Financial Studies</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2022 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       <a href="https://editorialexpress.com/conference/AFA2022/program/AFA2022.html">AFA 2022 Annual Meeting</a>, 
@@ -44,4 +43,6 @@ author_profile: true
 
 ## Publications
 1. [Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference](http://proceedings.mlr.press/v70/chaudhry17a) (with Pan Xu and Quanquan Gu)  
-   In *Proc. of the 34th International Conference on Machine Learning (ICML)* Sydney, Australia, 2017
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> In <i>Proc. of the 34th International Conference on Machine Learning (ICML) Sydney, Australia, 2017</i> </p>   
+
+
