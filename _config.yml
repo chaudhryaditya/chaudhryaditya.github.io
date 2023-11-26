@@ -59,7 +59,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Chaudhry"
-  avatar           : "website_headshot.png"
+  avatar           : "../images/website_headshot.png"
   bio              : "Assistant Professor of Finance"
   location         : #"Texas A&M University Mays Business School"
   employer         : "The Ohio State University"
