@@ -12,9 +12,9 @@ title_separator          : "-"
 logo                     : ""
 name                     : &name "Aditya Chaudhry"
 description              : &description "Assistant Professor of Finance"
-url                      : https://adityachaudhry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aditya-chaudhry1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "adityachaudhry.github.io"
+repository               : "aditya-chaudhry1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -42,7 +42,7 @@ staticman:
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
-  generatedFields:
+  generatedFields: 
     date:
       type               : "date"
       options:
