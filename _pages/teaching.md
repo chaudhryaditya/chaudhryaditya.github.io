@@ -5,15 +5,19 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### The University of Chicago
-* Corporate Finance (EMBA core), TA for Pietro Veronesi  
-  Winter 2020 (London), Spring 2021 (London)   
-  **TA Evaluations: 4.38/5, 4.59/5**
-* Investments (MBA core), TA for John Heaton  
-  Autumn 2019, Autumn 2020
-* Financial Economics: Speculative Markets (Undergrad elective), TA for Fernando Alvarez   
-  Spring 2019, Spring 2020, Spring 2021
+### BUSFIN 4221 – Investments (The Ohio State University Undergrad)
+Instructor, Fall 2023 to Present
 
-### Columbia Business School
-* Capital Markets and Investments (MBA core), TA for Harry Mamaysky   
-  Fall 2016
+### Asset Pricing II (Chicago Booth Ph.D.)
+Teaching Assistant for Profs. Ralph Koijen & Lars Hansen, 2022 
+Teaching Assistant for Profs. Ralph Koijen & Stefan Nagel,	2021 
+
+### Investments (Chicago Booth MBA)
+Teaching Assistant for Prof. John Heaton, 2020
+
+### Statistics (Citadel LLC)	
+Teaching Assistant for Prof. Jeffrey Russell, 2021
+
+### Investments  (Citadel LLC)	
+Teaching Assistant for Prof. John Heaton, 2020
+ 
