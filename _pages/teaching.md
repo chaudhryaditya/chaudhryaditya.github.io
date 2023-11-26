@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### BUSFIN 4221 – Investments (The Ohio State University Undergrad)
+### BUSFIN 4221 – Investments (The Ohio State University Undergraduate)
 Instructor, Fall 2023 to Present
 
 ### Asset Pricing II (Chicago Booth Ph.D.)

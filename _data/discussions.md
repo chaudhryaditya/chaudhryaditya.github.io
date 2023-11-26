@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Discussions"
-permalink: /teaching/
+permalink: /discussions/
 author_profile: true
 ---
 
