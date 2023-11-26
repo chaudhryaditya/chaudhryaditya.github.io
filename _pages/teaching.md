@@ -9,7 +9,7 @@ author_profile: true
 Instructor, Fall 2023 to Present
 
 ### Asset Pricing II (Chicago Booth Ph.D.)
-Teaching Assistant for Profs. Ralph Koijen & Lars Hansen, 2022 
+Teaching Assistant for Profs. Ralph Koijen & Lars Hansen, 2022  <br>
 Teaching Assistant for Profs. Ralph Koijen & Stefan Nagel,	2021 
 
 ### Investments (Chicago Booth MBA)
