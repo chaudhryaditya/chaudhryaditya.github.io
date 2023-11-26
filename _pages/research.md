@@ -41,6 +41,23 @@ author_profile: true
       Liew Fama-Miller PhD Fellowship for Best 2<sup>nd</sup> Year Paper</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I quantify the causal impact of macroeconomic uncertainty on expected returns. The exogenous timing of macroeconomic announcements provides an instrument for uncertainty. Using realized returns and daily measures of macroeconomic uncertainty, I find announcements resolve uncertainty, which causes expected returns to fall. Under weak assumptions, macroeconomic uncertainty explains at most 32% of expected return variation. Under the additional, empirically justified assumption that other expected return drivers do not correlate with announcement timing, macroeconomic uncertainty explains 10% of expected return variation and a one standard deviation increase in macroeconomic uncertainty raises long-run expected returns by 173 basis points. </p>   
 
+
+
+4. [High-Frequency Expectations from Asset Prices: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694019) (with Sangmin Oh) 
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> March 2022 </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      <a href="https://sofie2021.rady.ucsd.edu/">13<sup>th</sup> Annual SoFiE Conference</a>,
+      <a href="https://kenaninstitute.unc.edu/rethinc/index.php/event/virtual-event-rethinc-labs-2021-sofie-machine-learning-virtual-conference/">  2021 SoFiE Machine Learning Virtual Conference</a>,
+      <a href="https://www.bankofengland.co.uk/events/2020/november/modelling-with-big-data-and-machine-learning-measuring-economic-instability">  Bank of England Conference on Modeling with Big Data & Machine Learning: Measuring Economic Instability</a>,
+      <a href="https://www.nhh.no/en/calendar/conferences/2020/fintech-conference/">  2020 Bergen FinTech Conference</a>,
+      Chicago Booth Finance Brownbag,
+      Chicago Econ Macro / Monetary Reading Group.
+       </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
+      Arnold Zellner Doctoral Prize 2020 </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  We propose a novel reinforcement learning approach to extract high-frequency aggregate growth expectations from asset prices. While much expectations-based research in macroeconomics and finance relies on low-frequency surveys, the multitude of events that pass between survey dates renders identification of causal effects on expectations difficult. Our method allows us to construct a daily time-series of the cross-sectional mean of a panel of GDP growth forecasts. The high-frequency nature of our series enables clean identification in event studies. In particular, we use our estimated daily growth expectations series to test the “Fed information effect.” Extensions of our framework can obtain daily expectations series of any macroeconomic variable for which a low-frequency panel of forecasts is available. In this way, our method provides a sharp empirical tool to advance understanding of how expectations are formed. </p>   
+
+
 ## Publications
 1. [Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference](http://proceedings.mlr.press/v70/chaudhry17a) (with Pan Xu and Quanquan Gu)  
    <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> In <i>Proc. of the 34th International Conference on Machine Learning (ICML) Sydney, Australia, 2017</i> </p>   
