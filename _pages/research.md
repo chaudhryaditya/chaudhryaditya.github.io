@@ -21,12 +21,12 @@ author_profile: true
 
 
 2. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
-   This version: October 2023
-   <details><summary>Abstract</summary>
-   I find that the causal effect of subjective growth expectations on asset prices is far smaller than standard models suggest. To quantify this causal effect, I construct an asset demand model in which Bayesian investors learn from analysts and other signals. Leveraging holdings, prices, and beliefs data, I find a 1% rise in annual investor growth expectations raises price by 60% to 90% less than in standard models. This small causal effect arises from the limited passthrough of beliefs to asset demand, and is consistent with small price elasticities of demand.
-   </details>
-
-
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> October 2023 </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> [SFS Cavalcade North America 2022](http://sfs.org/financecavalcades/sfs-cavalcade-north-america-2022/), [14th Annual SoFiE Post-Conference](https://www.janeway.econ.cam.ac.uk/event/fourteenth-annual-sofie-conference), Transatlantic Doctoral Conference 2022, Machine Learning in Economics Summer Institute 2022, Chicago Joint Program and Friends Conference 2022, Chicago Booth Finance Brownbag </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> SoFiE Prize for the Best Paper at the 2022 Early-Career Scholars Conference, Liew Fama-Miller PhD Fellowship for Best 3rd Year Paper</p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I find that the causal effect of subjective growth expectations on asset prices is far smaller than standard models suggest. To quantify this causal effect, I construct an asset demand model in which Bayesian investors learn from analysts and other signals. Leveraging holdings, prices, and beliefs data, I find a 1% rise in annual investor growth expectations raises price by 60% to 90% less than in standard models. This small causal effect arises from the limited passthrough of beliefs to asset demand, and is consistent with small price elasticities of demand.</p>   
+ 
 
 ## Publications
 1. [Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference](http://proceedings.mlr.press/v70/chaudhry17a) (with Pan Xu and Quanquan Gu)  
