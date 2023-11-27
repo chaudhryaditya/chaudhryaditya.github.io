@@ -19,7 +19,7 @@ My primary research interests are asset pricing and macro-finance. My work focus
  
 <!-- **Research Interests**: Asset Pricing, Macro-Finance -->
 
-[**Research**](https://aditya-chaudhry1.github.io/research/)
+[**Research**](/research/)
 
 [**CV**](../files/Aditya_Chaudhry_CV.pdf)
  
