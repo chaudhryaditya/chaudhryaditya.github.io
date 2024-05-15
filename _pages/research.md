@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 ## Working Papers
-1. [The Impact of Prices on Analyst Cash Flow Expectations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443349)    
+1. [The Impact of Prices on Analyst Cash Flow Expectations: Reconciling Subjective Beliefs Data with Rational Discount Rate Variation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443349)    
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> November 2023 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       MFA (2024),
       University of Wisconsin-Madison Junior Finance Conference      
       </p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> I demonstrate that prices impact equity research analyst cash flow expectations. Using several instruments based on mutual fund flow-induced trading, I find analysts update their long- and short-term cash flow expectations in response to price changes caused by noise trading unrelated to cash flow news. These results have important implications for interpretations of analyst expectations. These results are inconsistent with models featuring homogeneous investor and analyst cash flow expectations that do not depend on prices. However, they are consistent with models in which cash flow expectations endogenously depend on prices, such as models with dispersed information or price extrapolation.</p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> I show that prices impact analyst cash flow expectations and argue this impact can quantitatively reconcile subjective beliefs data with asset pricing models featuring rational discount rate variation. Previous work argues that correlations of biased analyst cash flow expectations with prices and future returns contradict rational models and imply biased investor expectations distort prices. However, using two instrumental variables for price, I find increases in price unrelated to cash flow news raise analyst cash flow expectations. Based on this empirical finding, I propose a model with rational investors that matches key moments in beliefs data: analysts form biased cash flow expectations by learning from prices that contain discount rate variation. Thus, while stylized facts in beliefs data can be consistent with investors having biased expectations that distort prices, these facts can also be consistent with investors having rational expectations and analysts learning from prices.</p>
 
 
 2. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
@@ -32,7 +32,7 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
       SoFiE Prize for the Best Paper at the 2022 Early-Career Scholars Conference, 
       Liew Fama-Miller PhD Fellowship for Best 3<sup>rd</sup> Year Paper</p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I find that the causal effect of subjective growth expectations on asset prices is far smaller than standard models suggest. To quantify this causal effect, I construct an asset demand model in which Bayesian investors learn from analysts and other signals. Leveraging holdings, prices, and beliefs data, I find a 1% rise in annual investor growth expectations raises price by 60% to 90% less than in standard models. This small causal effect arises from the limited passthrough of beliefs to asset demand, and is consistent with small price elasticities of demand.</p>   
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I quantify the impact of belief distortions in investors' subjective cash flow growth expectations on asset prices. Given the lack of data on investor growth expectations, I propose a novel structural approach for recovering changes in investor expectations around analyst announcements by using structure on investor learning. I find a 1% increase in annual investor growth expectations raises asset prices contemporaneously by 60% to 90% less than in standard models. This small static impact implies prices incorporate changes in expectations gradually, which can occur if investors' asset demand responds slowly to changes in expectations. I show that in a quantitative model with slow-moving asset demand, this gradual incorporation significantly dampens how much belief distortions amplify return volatility.</p>   
  
 
 3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
