@@ -10,6 +10,7 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> November 2023 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      University of Virginia,
       MFA (2024),
       University of Wisconsin-Madison Junior Finance Conference      
       </p>
