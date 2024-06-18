@@ -7,6 +7,7 @@ author_profile: true
 
 ## Working Papers
 1. [The Impact of Prices on Analyst Cash Flow Expectations: Reconciling Subjective Beliefs Data with Rational Discount Rate Variation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443349)    
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Revise and Resubmit at <i>Journal of Financial Economics</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> November 2023 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
@@ -37,7 +38,7 @@ author_profile: true
  
 
 3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
-   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> In Revision, Reject and Resubmit at <i>Review of Financial Studies</i> </p>   
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Reject and Resubmit at <i>Review of Financial Studies</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2022 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       <a href="https://editorialexpress.com/conference/AFA2022/program/AFA2022.html">AFA 2022 Annual Meeting</a>, 
