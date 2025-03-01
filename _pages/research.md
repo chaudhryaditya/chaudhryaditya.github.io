@@ -4,8 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-## Working Papers
+## Publications
 1. [The Impact of Prices on Analyst Cash Flow Expectations: Reconciling Subjective Beliefs Data with Rational Discount Rate Variation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443349)    
    <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Accepted at <i>Journal of Financial Economics</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2025 </p>
@@ -17,8 +16,13 @@ author_profile: true
       </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I show that prices impact analyst cash flow expectations and argue this impact can partially reconcile subjective beliefs data with asset pricing models in which investors have rational expectations and discount rate variation drives prices. Previous work argues that correlations of biased analyst cash flow expectations with prices and future returns contradict rational models and imply biased investor expectations distort prices. However, using two instrumental variables for price, I find increases in price unrelated to cash flow news raise analyst cash flow expectations. Based on this empirical finding, I propose a model with rational investors that matches key moments in beliefs data: analysts form biased cash flow expectations by learning from prices that contain discount rate variation. Thus, while stylized facts in beliefs data can be consistent with investors having biased expectations that distort prices, these facts can also be consistent with investors having rational expectations and analysts learning from prices.  </p>
 
+2. [Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference](http://proceedings.mlr.press/v70/chaudhry17a) (with Pan Xu and Quanquan Gu)  
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> In <i>Proc. of the 34th International Conference on Machine Learning (ICML) Sydney, Australia, 2017</i> </p>   
 
-2. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
+## Working Papers
+
+
+1. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> October 2023 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
@@ -37,7 +41,7 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I quantify the impact of belief distortions in investors' subjective cash flow growth expectations on asset prices. Given the lack of data on investor growth expectations, I propose a novel structural approach for recovering changes in investor expectations around analyst announcements by using structure on investor learning. I find a 1% increase in annual investor growth expectations raises asset prices contemporaneously by 60% to 90% less than in standard models. This small static impact implies prices incorporate changes in expectations gradually, which can occur if investors' asset demand responds slowly to changes in expectations. I show that in a quantitative model with slow-moving asset demand, this gradual incorporation significantly dampens how much belief distortions amplify return volatility.</p>   
  
 
-3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
+2. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
    <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Reject and Resubmit at <i>Review of Financial Studies</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2022 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
@@ -51,7 +55,7 @@ author_profile: true
 
 
 
-4. [High-Frequency Expectations from Asset Prices: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694019) (with Sangmin Oh) 
+3. [High-Frequency Expectations from Asset Prices: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694019) (with Sangmin Oh) 
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> March 2022 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       <a href="https://sofie2021.rady.ucsd.edu/">13<sup>th</sup> Annual SoFiE Conference</a>,
@@ -66,8 +70,5 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  We propose a novel reinforcement learning approach to extract high-frequency aggregate growth expectations from asset prices. While much expectations-based research in macroeconomics and finance relies on low-frequency surveys, the multitude of events that pass between survey dates renders identification of causal effects on expectations difficult. Our method allows us to construct a daily time-series of the cross-sectional mean of a panel of GDP growth forecasts. The high-frequency nature of our series enables clean identification in event studies. In particular, we use our estimated daily growth expectations series to test the “Fed information effect.” Extensions of our framework can obtain daily expectations series of any macroeconomic variable for which a low-frequency panel of forecasts is available. In this way, our method provides a sharp empirical tool to advance understanding of how expectations are formed. </p>   
 
 
-## Publications
-1. [Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference](http://proceedings.mlr.press/v70/chaudhry17a) (with Pan Xu and Quanquan Gu)  
-   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> In <i>Proc. of the 34th International Conference on Machine Learning (ICML) Sydney, Australia, 2017</i> </p>   
 
 
