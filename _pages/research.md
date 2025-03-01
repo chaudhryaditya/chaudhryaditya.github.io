@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 1. [The Impact of Prices on Analyst Cash Flow Expectations: Reconciling Subjective Beliefs Data with Rational Discount Rate Variation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443349)    
-   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Conditionally Accepted at <i>Journal of Financial Economics</i> </p>   
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Accepted at <i>Journal of Financial Economics</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2025 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
@@ -15,7 +15,7 @@ author_profile: true
       MFA (2024),
       University of Wisconsin-Madison Junior Finance Conference      
       </p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> I show that prices impact analyst cash flow expectations and argue this impact can partially reconcile subjective beliefs data with asset pricing models featuring rational discount rate variation. Previous work argues that correlations of biased analyst cash flow expectations with prices and future returns contradict rational models and imply biased investor expectations distort prices. However, using two instrumental variables for price, I find increases in price unrelated to cash flow news raise analyst cash flow expectations. Based on this empirical finding, I propose a model with rational investors that matches key moments in beliefs data: analysts form biased cash flow expectations by learning from prices that contain discount rate variation. Thus, while stylized facts in beliefs data can be consistent with investors having biased expectations that distort prices, these facts can also be consistent with investors having rational expectations and analysts learning from prices. </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I show that prices impact analyst cash flow expectations and argue this impact can partially reconcile subjective beliefs data with asset pricing models in which investors have rational expectations and discount rate variation drives prices. Previous work argues that correlations of biased analyst cash flow expectations with prices and future returns contradict rational models and imply biased investor expectations distort prices. However, using two instrumental variables for price, I find increases in price unrelated to cash flow news raise analyst cash flow expectations. Based on this empirical finding, I propose a model with rational investors that matches key moments in beliefs data: analysts form biased cash flow expectations by learning from prices that contain discount rate variation. Thus, while stylized facts in beliefs data can be consistent with investors having biased expectations that distort prices, these facts can also be consistent with investors having rational expectations and analysts learning from prices.  </p>
 
 
 2. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
