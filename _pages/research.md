@@ -71,4 +71,6 @@ author_profile: true
 
 
 
+## Work In Progress
 
+1. [Endogenous Elasticities: Price Multipliers are Smaller for Larger Demand Shocks] (with Jiacui Li) 
