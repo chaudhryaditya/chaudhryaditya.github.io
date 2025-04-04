@@ -23,7 +23,7 @@ author_profile: true
 
 
 1. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> October 2023 </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> February 2025 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       University of Southern California Macro-Finance Conference,
@@ -38,7 +38,7 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
       SoFiE Prize for the Best Paper at the 2022 Early-Career Scholars Conference, 
       Liew Fama-Miller PhD Fellowship for Best 3<sup>rd</sup> Year Paper</p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I quantify the impact of belief distortions in investors' subjective cash flow growth expectations on asset prices. Given the lack of data on investor growth expectations, I propose a novel structural approach for recovering changes in investor expectations around analyst announcements by using structure on investor learning. I find a 1% increase in annual investor growth expectations raises asset prices contemporaneously by 60% to 90% less than in standard models. This small static impact implies prices incorporate changes in expectations gradually, which can occur if investors' asset demand responds slowly to changes in expectations. I show that in a quantitative model with slow-moving asset demand, this gradual incorporation significantly dampens how much belief distortions amplify return volatility.</p>   
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> I show that changes in investors’ subjective growth expectations are not immediately incorporated into prices, which weakens the impact of biased expectations on asset prices. Given the lack of investor growth expectations data, I propose a novel structural methodology for recovering investor expectation changes around analyst announcements. I find only 10% to 30% of an expectation change is immediately incorporated into prices. These results imply prices incorporate expectation changes gradually and motivate a quantitative model in which slow-moving asset demand generates this gradual incorporation. The model shows that this gradual incorporation significantly dampens how much biased expectations amplify return volatility.</p>   
  
 
 2. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
@@ -69,7 +69,7 @@ author_profile: true
       Arnold Zellner Doctoral Prize 2020 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  We propose a novel reinforcement learning approach to extract high-frequency aggregate growth expectations from asset prices. While much expectations-based research in macroeconomics and finance relies on low-frequency surveys, the multitude of events that pass between survey dates renders identification of causal effects on expectations difficult. Our method allows us to construct a daily time-series of the cross-sectional mean of a panel of GDP growth forecasts. The high-frequency nature of our series enables clean identification in event studies. In particular, we use our estimated daily growth expectations series to test the “Fed information effect.” Extensions of our framework can obtain daily expectations series of any macroeconomic variable for which a low-frequency panel of forecasts is available. In this way, our method provides a sharp empirical tool to advance understanding of how expectations are formed. </p>   
 
-
+ 
 
 ## Work In Progress
 
