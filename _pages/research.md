@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Publications
 1. [The Impact of Prices on Analyst Cash Flow Expectations: Reconciling Subjective Beliefs Data with Rational Discount Rate Variation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443349)    
-   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Accepted at <i>Journal of Financial Economics</i> </p>   
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Forthcoming at [<i>Journal of Financial Economics</i> </p>](https://doi.org/10.1016/j.jfineco.2025.104095)
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> February 2025 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
