@@ -21,8 +21,21 @@ author_profile: true
 
 ## Working Papers
 
+1. [Endogenous Elasticities: Price Multipliers Are Smaller for Larger Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325371) (with Jiacui Li) 
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> June 2025 </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      University of Virginia,
+      The Ohio State University,
+      University of Utah,
+      <a href="https://www1.villanova.edu/university/business/faculty-and-research/academic-departments/finance-real-estate/marc/program.html">2025 Mid-Atlantic Research Conference (MARC)</a>,
+      <a href="https://economics.stanford.edu/events/site-2025/session-1-asset-pricing-models-solution-methods-and-applications">Sanford Institute for Theoretical Economics (SITE) 2025</a> 
+   </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
+      2025 Mid-Atlantic Research Conference (MARC) Outstanding Paper Award</p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> We document a new stylized fact about demand effects in stock markets and use it to shed light on the microfoundations of inelastic demand. We find that the price multiplier (per unit price impact) of cash flow-unrelated demand shocks declines with the magnitude of both the current and accumulated past shocks. Consistent with these findings, we find that institutional holdings exhibit demand elasticities that increase with the magnitude of price dislocations, and that this behavior arises in large part from the intensive margin of trading. Our findings are generally less consistent with "frictional" explanations of inelastic demand, but are more consistent with "belief-based" explanations: investors are more certain about price dislocations when they are large, and trade against such dislocations more fiercely. We rationalize our findings using a stylized model with endogenous inattention.</p> 
 
-1. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
+
+2. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> February 2025 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
@@ -41,7 +54,7 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> I show that changes in investors’ subjective growth expectations are not immediately incorporated into prices, which weakens the impact of biased expectations on asset prices. Given the lack of investor growth expectations data, I propose a novel structural methodology for recovering investor expectation changes around analyst announcements. I find only 10% to 30% of an expectation change is immediately incorporated into prices. These results imply prices incorporate expectation changes gradually and motivate a quantitative model in which slow-moving asset demand generates this gradual incorporation. The model shows that this gradual incorporation significantly dampens how much biased expectations amplify return volatility.</p>   
  
 
-2. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
+3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
    <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Reject and Resubmit at <i>Review of Financial Studies</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2022 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
@@ -55,7 +68,7 @@ author_profile: true
 
 
 
-3. [High-Frequency Expectations from Asset Prices: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694019) (with Sangmin Oh) 
+4. [High-Frequency Expectations from Asset Prices: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694019) (with Sangmin Oh) 
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> March 2022 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       <a href="https://sofie2021.rady.ucsd.edu/">13<sup>th</sup> Annual SoFiE Conference</a>,
@@ -69,8 +82,4 @@ author_profile: true
       Arnold Zellner Doctoral Prize 2020 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  We propose a novel reinforcement learning approach to extract high-frequency aggregate growth expectations from asset prices. While much expectations-based research in macroeconomics and finance relies on low-frequency surveys, the multitude of events that pass between survey dates renders identification of causal effects on expectations difficult. Our method allows us to construct a daily time-series of the cross-sectional mean of a panel of GDP growth forecasts. The high-frequency nature of our series enables clean identification in event studies. In particular, we use our estimated daily growth expectations series to test the “Fed information effect.” Extensions of our framework can obtain daily expectations series of any macroeconomic variable for which a low-frequency panel of forecasts is available. In this way, our method provides a sharp empirical tool to advance understanding of how expectations are formed. </p>   
 
- 
-
-## Work In Progress
-
-1. Endogenous Elasticities: Price Multipliers are Smaller for Larger Demand Shocks (with Jiacui Li) 
+  
