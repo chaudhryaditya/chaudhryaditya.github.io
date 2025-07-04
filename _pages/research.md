@@ -23,12 +23,12 @@ author_profile: true
 
 1. [Endogenous Elasticities: Price Multipliers Are Smaller for Larger Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325371) (with Jiacui Li) 
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> June 2025 </p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
-      University of Virginia,
-      The Ohio State University,
-      University of Utah,
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b>       
+      <a href="https://economics.stanford.edu/events/site-2025/session-1-asset-pricing-models-solution-methods-and-applications">Sanford Institute for Theoretical Economics (SITE) 2025</a>,
       <a href="https://www1.villanova.edu/university/business/faculty-and-research/academic-departments/finance-real-estate/marc/program.html">2025 Mid-Atlantic Research Conference (MARC)</a>,
-      <a href="https://economics.stanford.edu/events/site-2025/session-1-asset-pricing-models-solution-methods-and-applications">Sanford Institute for Theoretical Economics (SITE) 2025</a> 
+      University of Utah,
+      The Ohio State University,
+      University of Virginia
    </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
       2025 Mid-Atlantic Research Conference (MARC) Outstanding Paper Award</p>
