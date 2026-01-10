@@ -5,23 +5,23 @@ permalink: /discussions/
 author_profile: true
 ---
 ### 2025 UIC Finance Conference
-[Distorted Beliefs and Asset Prices](/files/An__Su___Wang__2023__Discussion.pdf) <br>
+[Distorted Beliefs and Asset Prices](/files/Bretscher__Malkhozov__Tamoni__Yang__Discussion__2025.pdf) <br>
 (by Lorenzo Bretscher,  Aytek Malkhozov, Andrea Tamoni, and Haoxi Yang)
 
 ### 2025 MFA
-[The Ghost in the Machine: Generating Beliefs with Large Language Models](/files/An__Su___Wang__2023__Discussion.pdf) <br>
+[The Ghost in the Machine: Generating Beliefs with Large Language Models](/files/Bybee__2025__Discussion.pdf) <br>
 (by Leland Bybee)
 
 ### 2025 MFA
-[Do Households Matter for Asset Prices?](/files/An__Su___Wang__2023__Discussion.pdf) <br>
+[Do Households Matter for Asset Prices?](/files/Davis__Knupfer__Kvaerner__Sen-Dogan__Vokata__2025.pdf) <br>
 (by Carter Davis, Samuli Knupfer, Jens Soerlie Kvaerner, Bahar Sen-Dogan, Petra Vokata)
 
 ### 2025 AFA
-[Crash Narratives](/files/An__Su___Wang__2023__Discussion.pdf) <br>
+[Crash Narratives](/files/Goetzmann__Kim__Shiller__2024__Discussion__AFA.pdf) <br>
 (by William Goetzmann, Dasol Kim, and Robert Shiller)
 
 ### 2024 Yale Junior Conference
-[What Drives Very Long-Run Cash Flow Expectations?](/files/An__Su___Wang__2023__Discussion.pdf) <br>
+[What Drives Very Long-Run Cash Flow Expectations?](/files/Decaire___Guenzel__2024__Discussion.pdf) <br>
 (by Paul Décaire and Marius Guenzel)
 
 ### 2023 UT Dallas Fall Finance Conference
