@@ -10,6 +10,7 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> May 2025 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      Arizona State University,
       University of Virginia,
       MFA (2024),
       University of Wisconsin-Madison Junior Finance Conference      
@@ -23,7 +24,15 @@ author_profile: true
 
 1. [Endogenous Elasticities: Price Multipliers Are Smaller for Larger Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325371) (with Jiacui Li) 
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> August 2025 </p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b>       
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      MFA (2026),    
+      Princeton,  
+      <a href ="https://www-nber-org.proxy.lib.ohio-state.edu/conferences/asset-pricing-program-meeting-fall-2025">NBER Asset Pricing Fall 2025</a>,
+      <a href="https://wapfin-stern.weebly.com/">NYU WAPFIN 2025</a>,
+      UNC Junior Finance Conference,
+      NFA (2025),
+      University of Hong Kong,
+      Hong Kong Polytechnic University,
       <a href="https://economics.stanford.edu/events/site-2025/session-1-asset-pricing-models-solution-methods-and-applications">Stanford Institute for Theoretical Economics (SITE) 2025</a>,
       <a href="https://www1.villanova.edu/university/business/faculty-and-research/academic-departments/finance-real-estate/marc/program.html">2025 Mid-Atlantic Research Conference (MARC)</a>,
       University of Utah,
