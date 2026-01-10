@@ -23,7 +23,7 @@ author_profile: true
 ## Working Papers
 
 1. [Endogenous Elasticities: Price Multipliers Are Smaller for Larger Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325371) (with Jiacui Li) 
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> August 2025 </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> October 2025 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       MFA (2026),    
       Princeton,  
@@ -41,11 +41,11 @@ author_profile: true
    </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
       2025 Mid-Atlantic Research Conference (MARC) Outstanding Paper Award</p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> A growing literature estimates   price multipliers --- per-unit impacts of demand shocks on asset prices --- using plausibly exogenous but small shocks. However, it is theoretically ambiguous how these estimates extrapolate to the large shocks that are often of interest for policy and economic questions. This paper documents a new stylized fact: stock-level price multipliers decrease as the magnitude of demand shocks increases. We study three widely-used   demand shocks   unrelated to cash flow news, and find that multipliers are   smaller for both larger contemporaneous and larger cumulative   past shocks. Using investor holdings data, we also find   higher demand elasticities in securities with larger price dislocations.   Our findings shed light on  the microfoundations of inelastic demand. While these findings  cannot be explained by  several prominent mechanisms, they   are consistent with models in which investors endogenously allocate more attention and capital toward greater profit opportunities.</p> 
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> We show that price multipliers — the per unit price impact of uninformed asset demand shocks — are smaller for larger shocks. Studying three widely-used demand shocks unrelated to cash  flow news, we find that multipliers are smaller for larger contemporaneous and cumulative past  shocks. Using holdings data, we also find investors become more price elastic following larger  exogenous price changes. These patterns are inconsistent with many potential mechanisms for  inelastic demand but match models in which price elasticities endogenously increase with profit  opportunities, such as fixed adjustment costs or endogenous inattention. Thus, our findings  discipline the microfoundations of inelastic demand and inform how multiplier estimates from small  shocks extrapolate to the large shocks relevant for many finance questions.</p> 
 
 
 2. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> August 2025 </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> October 2025 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       University of Southern California Macro-Finance Conference,
@@ -60,7 +60,7 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
       SoFiE Prize for the Best Paper at the 2022 Early-Career Scholars Conference, 
       Liew Fama-Miller PhD Fellowship for Best 3<sup>rd</sup> Year Paper</p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> I find that stock prices incorporate subjective growth expectations gradually rather than immediately, and demonstrate that this gradual incorporation weakens the impact of biased expectations on prices. Previous work assumes <i>immediate</i> incorporation, so excessive fluctuations in growth expectations create excessive fluctuations in prices that amplify volatility. In contrast, using analyst forecasts as proxies for investor growth expectations, I provide reduced-form evidence of <i>gradual</i>  incorporation. I then develop a structural learning model to quantify the degree of gradual incorporation. The model recovers investor growth expectation changes, thereby avoiding measurement error from using analyst forecasts as proxies. I find that  only 10% to 30% of a given expectation change is immediately incorporated into price. Based on these findings, I propose and calibrate an asset pricing model in which gradual incorporation arises from slow-moving asset demand. The model shows that gradual incorporation weakens the impact of biased growth expectations on return volatility. Thus, the impact of biased growth expectations on prices is smaller than previous work suggests. </p>   
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> I show that stock prices incorporate subjective growth expectations gradually rather than immediately, and that this gradual incorporation weakens the impact of biased expectations on prices. Previous work assumes immediate incorporation, so excessive variation in expectations creates excess volatility in prices. In contrast, I provide reduced-form evidence that expectation and price dynamics following cash flow news are consistent with gradual incorporation, not immediate incorporation. I then develop a structural learning model to quantify the degree of gradual incorporation. I find that only 10% to 30% of a given expectation change is immediately incorporated into price. Based on these findings, I propose and calibrate an asset pricing model in which gradual incorporation arises from slow-moving asset demand. The model shows that gradual incorporation weakens the impact of biased growth expectations on return volatility. Thus, biased growth expectations have a smaller impact on prices than previous work suggests. </p>   
  
 
 3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
