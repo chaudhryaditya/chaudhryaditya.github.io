@@ -94,4 +94,4 @@ author_profile: true
   
 ## Work in Progress
 
-1. The Origins of the Factor Zoo: Investors Weakly Substitute Across Stocks](with Carter Davis
+1. The Origins of the Factor Zoo: Investors Weakly Substitute Across Stocks (with Carter Davis)
