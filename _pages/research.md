@@ -45,7 +45,20 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> How well can markets absorb large demand shocks? We address this question using price multipliers: the per-unit price adjustment investors require to absorb shocks. We find stock-level multipliers are smaller for larger contemporaneous and cumulative past shocks. Using holdings data, we find investors endogenously become more price elastic as larger shocks create larger price dislocations. These results are consistent with models where investors become more willing to absorb shocks when large dislocations create large profit opportunities, such as fixed adjustment costs or endogenous inattention. Our findings suggest large shocks expand rather than exhaust the capacity of markets to absorb shocks.</p> 
 
 
-2. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
+2. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Reject and Resubmit at <i>Review of Financial Studies</i> </p>   
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2022 </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      <a href="https://editorialexpress.com/conference/AFA2022/program/AFA2022.html">AFA 2022 Annual Meeting</a>, 
+      <a href="https://sofie2021.rady.ucsd.edu/">13<sup>th</sup> Annual SoFiE Pre-Conference</a>,
+      Chicago Joint Program and Friends Conference 2021, 
+      Chicago Booth Finance Brownbag </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
+      Liew Fama-Miller PhD Fellowship for Best 2<sup>nd</sup> Year Paper</p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I quantify the causal impact of macroeconomic uncertainty on expected returns. The exogenous timing of macroeconomic announcements provides an instrument for uncertainty. Using realized returns and daily measures of macroeconomic uncertainty, I find announcements resolve uncertainty, which causes expected returns to fall. Under weak assumptions, macroeconomic uncertainty explains at most 32% of expected return variation. Under the additional, empirically justified assumption that other expected return drivers do not correlate with announcement timing, macroeconomic uncertainty explains 10% of expected return variation and a one standard deviation increase in macroeconomic uncertainty raises long-run expected returns by 173 basis points. </p>   
+
+
+3. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> October 2025 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
@@ -63,18 +76,6 @@ author_profile: true
       Liew Fama-Miller PhD Fellowship for Best 3<sup>rd</sup> Year Paper</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> I show that stock prices incorporate subjective growth expectations gradually rather than immediately, and that this gradual incorporation weakens the impact of biased expectations on prices. Previous work assumes immediate incorporation, so excessive variation in expectations creates excess volatility in prices. In contrast, I provide reduced-form evidence that expectation and price dynamics following cash flow news are consistent with gradual incorporation, not immediate incorporation. I then develop a structural learning model to quantify the degree of gradual incorporation. I find that only 10% to 30% of a given expectation change is immediately incorporated into price. Based on these findings, I propose and calibrate an asset pricing model in which gradual incorporation arises from slow-moving asset demand. The model shows that gradual incorporation weakens the impact of biased growth expectations on return volatility. Thus, biased growth expectations have a smaller impact on prices than previous work suggests. </p>   
  
-
-3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
-   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Reject and Resubmit at <i>Review of Financial Studies</i> </p>   
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2022 </p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
-      <a href="https://editorialexpress.com/conference/AFA2022/program/AFA2022.html">AFA 2022 Annual Meeting</a>, 
-      <a href="https://sofie2021.rady.ucsd.edu/">13<sup>th</sup> Annual SoFiE Pre-Conference</a>,
-      Chicago Joint Program and Friends Conference 2021, 
-      Chicago Booth Finance Brownbag </p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
-      Liew Fama-Miller PhD Fellowship for Best 2<sup>nd</sup> Year Paper</p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I quantify the causal impact of macroeconomic uncertainty on expected returns. The exogenous timing of macroeconomic announcements provides an instrument for uncertainty. Using realized returns and daily measures of macroeconomic uncertainty, I find announcements resolve uncertainty, which causes expected returns to fall. Under weak assumptions, macroeconomic uncertainty explains at most 32% of expected return variation. Under the additional, empirically justified assumption that other expected return drivers do not correlate with announcement timing, macroeconomic uncertainty explains 10% of expected return variation and a one standard deviation increase in macroeconomic uncertainty raises long-run expected returns by 173 basis points. </p>   
 
 
 
