@@ -23,7 +23,8 @@ author_profile: true
 ## Working Papers
 
 1. [Endogenous Elasticities: Price Multipliers Are Smaller for Larger Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325371) (with Jiacui Li) 
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> October 2025 </p>
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Revise and Resubmit at <i>Review of Financial Studies</i> </p>   
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> February 2026 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       MFA (2026),    
       Princeton,  
@@ -41,7 +42,7 @@ author_profile: true
    </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Awards:</b> 
       2025 Mid-Atlantic Research Conference (MARC) Outstanding Paper Award</p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> How well can  markets absorb large demand shocks? We address this question using price multipliers: the per-unit price adjustment investors require  to absorb shocks. We find stock-level multipliers are smaller for larger contemporaneous and cumulative past shocks.  Using holdings data, we find investors endogenously become more price elastic as larger shocks create larger price dislocations. These results are consistent with models where investors become more willing to absorb shocks when large dislocations create  large profit opportunities, such as fixed adjustment costs or endogenous inattention. Our findings suggest large shocks expand rather than exhaust the capacity of markets to absorb shocks.</p> 
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> How well can markets absorb large demand shocks? We address this question using price multipliers: the per-unit price adjustment investors require to absorb shocks. We find stock-level multipliers are smaller for larger contemporaneous and cumulative past shocks. Using holdings data, we find investors endogenously become more price elastic as larger shocks create larger price dislocations. These results are consistent with models where investors become more willing to absorb shocks when large dislocations create large profit opportunities, such as fixed adjustment costs or endogenous inattention. Our findings suggest large shocks expand rather than exhaust the capacity of markets to absorb shocks.</p> 
 
 
 2. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
