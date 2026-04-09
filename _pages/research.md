@@ -45,7 +45,11 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> How well can markets absorb large demand shocks? We address this question using price multipliers: the per-unit price adjustment investors require to absorb shocks. We find stock-level multipliers are smaller for larger contemporaneous and cumulative past shocks. Using holdings data, we find investors endogenously become more price elastic as larger shocks create larger price dislocations. These results are consistent with models where investors become more willing to absorb shocks when large dislocations create large profit opportunities, such as fixed adjustment costs or endogenous inattention. Our findings suggest large shocks expand rather than exhaust the capacity of markets to absorb shocks.</p> 
 
 
-2. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
+2. [The Origins of the Factor Zoo: Investors Weakly Substitute Across Stocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6545318) (with Carter Davis)
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> April 2026 </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  We show that investors treat individual stocks as weak substitutes, and that this weak substitutability explains the existence of the "factor zoo" in expected stock returns. In classical asset-pricing models, substitutability is strong: investors readily reallocate across assets that covary, so differences in expected returns are explained by the few factors that contribute most to covariances across stocks. In contrast, we show that substitutability is empirically weak by measuring cross-sectional return predictability, cross-price multipliers, and cross-price elasticities. This weak substitutability gives rise to the factor zoo: expected returns depend on many factors, including weak factors that drive little covariance across stocks. Moreover, weak substitutability rationalizes why equilibrium Sharpe ratios remain moderate even though weak factors contribute to expected returns. Additionally, weak substitutability implies that misspecified substitution patterns create only small biases in price elasticity and multiplier estimates.</p>   
+
+3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
    <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Reject and Resubmit at <i>Review of Financial Studies</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2022 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
@@ -58,7 +62,7 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I quantify the causal impact of macroeconomic uncertainty on expected returns. The exogenous timing of macroeconomic announcements provides an instrument for uncertainty. Using realized returns and daily measures of macroeconomic uncertainty, I find announcements resolve uncertainty, which causes expected returns to fall. Under weak assumptions, macroeconomic uncertainty explains at most 32% of expected return variation. Under the additional, empirically justified assumption that other expected return drivers do not correlate with announcement timing, macroeconomic uncertainty explains 10% of expected return variation and a one standard deviation increase in macroeconomic uncertainty raises long-run expected returns by 173 basis points. </p>   
 
 
-3. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
+4. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> October 2025 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
@@ -79,7 +83,7 @@ author_profile: true
 
 
 
-4. [High-Frequency Expectations from Asset Prices: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694019) (with Sangmin Oh) 
+5. [High-Frequency Expectations from Asset Prices: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694019) (with Sangmin Oh) 
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> March 2022 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       <a href="https://sofie2021.rady.ucsd.edu/">13<sup>th</sup> Annual SoFiE Conference</a>,
