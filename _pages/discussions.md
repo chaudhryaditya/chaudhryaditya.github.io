@@ -4,7 +4,7 @@ title: "Discussions"
 permalink: /discussions/
 author_profile: true
 ---
-### 2025 MFA
+### 2026 MFA
 [How (Not) to Identify Demand Elasticities in Dynamic Asset Markets](/files/van_Binsbergen_David_Opp_(2026)_MFA_Discussion.pdf) <br>
 (by Jules van Binsbergen, Benjamin David, and Christian Opp)
 
