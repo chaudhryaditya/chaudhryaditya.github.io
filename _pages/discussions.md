@@ -4,6 +4,15 @@ title: "Discussions"
 permalink: /discussions/
 author_profile: true
 ---
+
+### 2026 WFA
+[Asset Pricing with the Awareness of New Risks](/files/Heyerdalh-Larsen_Illeditsch_Sinagl_(2026)_WFA_Discussion.pdf) <br>
+(by Christian Heyerdahl-Larsen, Philipp Illeditsch, and Petra Sinagl)
+
+### 2026 FIRS
+[A Trilemma for Asset Demand Estimation](/files/FFN_Discussion_Slides_AC.pdf) <br>
+(by William Fuchs, Satoshi Fukuda, and Daniel Neuhann)
+
 ### 2026 MFA
 [How (Not) to Identify Demand Elasticities in Dynamic Asset Markets](/files/van_Binsbergen_David_Opp_(2026)_MFA_Discussion.pdf) <br>
 (by Jules van Binsbergen, Benjamin David, and Christian Opp)
