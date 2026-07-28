@@ -23,7 +23,7 @@ author_profile: true
 ## Working Papers
 
 1. [Endogenous Elasticities: Price Multipliers Are Smaller for Larger Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325371) (with Jiacui Li) 
-   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Revise and Resubmit at <i>Review of Financial Studies</i> </p>   
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Second Round Revise and Resubmit at <i>Review of Financial Studies</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> February 2026 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       MFA (2026),    
