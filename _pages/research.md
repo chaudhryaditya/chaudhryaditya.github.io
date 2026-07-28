@@ -47,6 +47,13 @@ author_profile: true
 
 2. [The Origins of the Factor Zoo: Investors Weakly Substitute Across Stocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6545318) (with Carter Davis)
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> April 2026 </p>
+      <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      <a href="https://ndigi.nd.edu/research/events/academic-conferences">2026 Notre Dame Investment Management Conference</a>,
+      <a href="https://www.conftool.com/efa2026/sessions.php">EFA (2026),   
+      <a href="https://www.sauder.ubc.ca/thought-leadership/divisions/finance/conferences/summer-finance-conference">UBC Summer Finance Conference 2026</a>,
+      <a href="https://dsap.princeton.edu/index.php/program/">2026 Princeton Conference on Asset Demand Systems</a>,
+      The Ohio State University, 
+   </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  We show that investors treat individual stocks as weak substitutes, and that this weak substitutability explains the existence of the "factor zoo" in expected stock returns. In classical asset-pricing models, substitutability is strong: investors readily reallocate across assets that covary, so differences in expected returns are explained by the few factors that contribute most to covariances across stocks. In contrast, we show that substitutability is empirically weak by measuring cross-sectional return predictability, cross-price multipliers, and cross-price elasticities. This weak substitutability gives rise to the factor zoo: expected returns depend on many factors, including weak factors that drive little covariance across stocks. Moreover, weak substitutability rationalizes why equilibrium Sharpe ratios remain moderate even though weak factors contribute to expected returns. Additionally, weak substitutability implies that misspecified substitution patterns create only small biases in price elasticity and multiplier estimates.</p>   
 
 3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
