@@ -5,25 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 ## Publications
-1. [The Impact of Prices on Analyst Cash Flow Expectations: Reconciling Subjective Beliefs Data with Rational Discount Rate Variation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443349)    
-   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> <i><a href="https://doi.org/10.1016/j.jfineco.2025.104095">Journal of Financial Economics, 2025</a></i> </p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> May 2025 </p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
-      Arizona State University,
-      University of Virginia,
-      MFA (2024),
-      University of Wisconsin-Madison Junior Finance Conference      
-      </p>
-   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I show that prices impact analyst cash flow expectations and argue this impact can partially reconcile subjective beliefs data with asset pricing models in which investors have rational expectations and discount rate variation drives prices. Previous work argues that correlations of biased analyst cash flow expectations with prices and future returns contradict rational models and imply biased investor expectations distort prices. However, using two instrumental variables for price, I find increases in price unrelated to cash flow news raise analyst cash flow expectations. Based on this empirical finding, I propose a model with rational investors that matches key moments in beliefs data: analysts form biased cash flow expectations by learning from prices that contain discount rate variation. Thus, while stylized facts in beliefs data can be consistent with investors having biased expectations that distort prices, these facts can also be consistent with investors having rational expectations and analysts learning from prices.  </p>
 
-2. [Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference](http://proceedings.mlr.press/v70/chaudhry17a) (with Pan Xu and Quanquan Gu)  
-   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> In <i>Proc. of the 34th International Conference on Machine Learning (ICML) Sydney, Australia, 2017</i> </p>   
-
-## Working Papers
 
 1. [Endogenous Elasticities: Price Multipliers Are Smaller for Larger Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325371) (with Jiacui Li) 
-   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Second Round Revise and Resubmit at <i>Review of Financial Studies</i> </p>   
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Conditionally Accepted at <i>Review of Financial Studies</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> February 2026 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       MFA (2026),    
@@ -45,7 +30,25 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b> How well can markets absorb large demand shocks? We address this question using price multipliers: the per-unit price adjustment investors require to absorb shocks. We find stock-level multipliers are smaller for larger contemporaneous and cumulative past shocks. Using holdings data, we find investors endogenously become more price elastic as larger shocks create larger price dislocations. These results are consistent with models where investors become more willing to absorb shocks when large dislocations create large profit opportunities, such as fixed adjustment costs or endogenous inattention. Our findings suggest large shocks expand rather than exhaust the capacity of markets to absorb shocks.</p> 
 
 
-2. [The Origins of the Factor Zoo: Investors Weakly Substitute Across Stocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6545318) (with Carter Davis)
+2. [The Impact of Prices on Analyst Cash Flow Expectations: Reconciling Subjective Beliefs Data with Rational Discount Rate Variation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443349)    
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> <i><a href="https://doi.org/10.1016/j.jfineco.2025.104095">Journal of Financial Economics, 2025</a></i> </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> May 2025 </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      Arizona State University,
+      University of Virginia,
+      MFA (2024),
+      University of Wisconsin-Madison Junior Finance Conference      
+      </p>
+   <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I show that prices impact analyst cash flow expectations and argue this impact can partially reconcile subjective beliefs data with asset pricing models in which investors have rational expectations and discount rate variation drives prices. Previous work argues that correlations of biased analyst cash flow expectations with prices and future returns contradict rational models and imply biased investor expectations distort prices. However, using two instrumental variables for price, I find increases in price unrelated to cash flow news raise analyst cash flow expectations. Based on this empirical finding, I propose a model with rational investors that matches key moments in beliefs data: analysts form biased cash flow expectations by learning from prices that contain discount rate variation. Thus, while stylized facts in beliefs data can be consistent with investors having biased expectations that distort prices, these facts can also be consistent with investors having rational expectations and analysts learning from prices.  </p>
+
+3. [Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference](http://proceedings.mlr.press/v70/chaudhry17a) (with Pan Xu and Quanquan Gu)  
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> In <i>Proc. of the 34th International Conference on Machine Learning (ICML) Sydney, Australia, 2017</i> </p>   
+
+## Working Papers
+
+
+1. [The Origins of the Factor Zoo: Investors Weakly Substitute Across Stocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6545318) (with Carter Davis)
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> April 2026 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       <a href="https://ndigi.nd.edu/research/events/academic-conferences">2026 Notre Dame Investment Management Conference</a>,
@@ -56,7 +59,7 @@ author_profile: true
    </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  We show that investors treat individual stocks as weak substitutes, and that this weak substitutability explains the existence of the "factor zoo" in expected stock returns. In classical asset-pricing models, substitutability is strong: investors readily reallocate across assets that covary, so differences in expected returns are explained by the few factors that contribute most to covariances across stocks. In contrast, we show that substitutability is empirically weak by measuring cross-sectional return predictability, cross-price multipliers, and cross-price elasticities. This weak substitutability gives rise to the factor zoo: expected returns depend on many factors, including weak factors that drive little covariance across stocks. Moreover, weak substitutability rationalizes why equilibrium Sharpe ratios remain moderate even though weak factors contribute to expected returns. Additionally, weak substitutability implies that misspecified substitution patterns create only small biases in price elasticity and multiplier estimates.</p>   
 
-3. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
+2. [The Causal Impact of Macroeconomic Uncertainty on Expected Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711584)
    <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Reject and Resubmit at <i>Review of Financial Studies</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> January 2022 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
@@ -69,7 +72,7 @@ author_profile: true
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Abstract:</b>  I quantify the causal impact of macroeconomic uncertainty on expected returns. The exogenous timing of macroeconomic announcements provides an instrument for uncertainty. Using realized returns and daily measures of macroeconomic uncertainty, I find announcements resolve uncertainty, which causes expected returns to fall. Under weak assumptions, macroeconomic uncertainty explains at most 32% of expected return variation. Under the additional, empirically justified assumption that other expected return drivers do not correlate with announcement timing, macroeconomic uncertainty explains 10% of expected return variation and a one standard deviation increase in macroeconomic uncertainty raises long-run expected returns by 173 basis points. </p>   
 
 
-4. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
+3. [How Much Do Subjective Growth Expectations Matter for Asset Prices?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4209688)
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> October 2025 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Note:</b> This paper contains and extends results from my previous paper “Do Subjective Growth Expectations Matter for Asset Prices?”</p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
@@ -90,7 +93,7 @@ author_profile: true
 
 
 
-5. [High-Frequency Expectations from Asset Prices: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694019) (with Sangmin Oh) 
+4. [High-Frequency Expectations from Asset Prices: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694019) (with Sangmin Oh) 
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> March 2022 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       <a href="https://sofie2021.rady.ucsd.edu/">13<sup>th</sup> Annual SoFiE Conference</a>,
