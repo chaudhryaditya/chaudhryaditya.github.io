@@ -8,12 +8,12 @@ author_profile: true
 
 
 1. [Endogenous Elasticities: Price Multipliers Are Smaller for Larger Demand Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5325371) (with Jiacui Li) 
-   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;"> Conditionally Accepted at <i>Review of Financial Studies</i> </p>   
+   <p style="font-size: 17px;margin-bottom: 5px;margin-top: 0;">  Accepted at <i>Review of Financial Studies</i> </p>   
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> June 2026 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
       MFA (2026),    
       Princeton,  
-      <a href ="https://www-nber-org.proxy.lib.ohio-state.edu/conferences/asset-pricing-program-meeting-fall-2025">NBER Asset Pricing Fall 2025</a>,
+      <a href ="https://www.nber.org/conferences/asset-pricing-program-meeting-fall-2025">NBER Asset Pricing Fall 2025</a>,
       <a href="https://wapfin-stern.weebly.com/">NYU WAPFIN 2025</a>,
       UNC Junior Finance Conference,
       NFA (2025),
@@ -51,6 +51,9 @@ author_profile: true
 1. [The Origins of the Factor Zoo: Investors Weakly Substitute Across Stocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6545318) (with Carter Davis)
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> April 2026 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
+      <a href ="https://www.nber.org/conferences/asset-pricing-program-meeting-fall-2026">NBER Asset Pricing Fall 2025</a>,
+      Cornell,
+      Boston College,
       <a href="https://ndigi.nd.edu/research/events/academic-conferences">2026 Notre Dame Investment Management Conference</a>,
       <a href="https://www.conftool.com/efa2026/sessions.php">EFA (2026)</a>,
       <a href="https://www.sauder.ubc.ca/thought-leadership/divisions/finance/conferences/summer-finance-conference">UBC Summer Finance Conference 2026</a>,
