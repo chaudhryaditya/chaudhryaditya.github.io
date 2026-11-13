@@ -51,7 +51,7 @@ author_profile: true
 1. [The Origins of the Factor Zoo: Investors Weakly Substitute Across Stocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6545318) (with Carter Davis)
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>This version:</b> April 2026 </p>
    <p style="font-size: 15px;margin-bottom: 5px;margin-top: 0;"> <b>Presentations:</b> 
-      <a href ="https://www.nber.org/conferences/asset-pricing-program-meeting-fall-2026">NBER Asset Pricing Fall 2025</a>,
+      <a href ="https://www.nber.org/conferences/asset-pricing-program-meeting-fall-2026">NBER Asset Pricing Fall 2026</a>,
       Cornell,
       Boston College,
       <a href="https://ndigi.nd.edu/research/events/academic-conferences">2026 Notre Dame Investment Management Conference</a>,
