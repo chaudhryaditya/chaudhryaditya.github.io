@@ -114,3 +114,4 @@ author_profile: true
 ## Work in Progress
 
 1. A Positive Analysis of Sovereign Debt Maturity Choice (with William Cassidy and Steve Wu)
+2. Prices, Beliefs, and Quantities: A Model of the Stock Market (with Jiacui Li and Stefan Nagel)
